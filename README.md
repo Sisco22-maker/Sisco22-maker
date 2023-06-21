@@ -2,7 +2,13 @@
 - 👀 I’m interested in programing and reading in history
 - 🌱 I’m currently learning data structures with c++
 - 💞️ I’m looking to collaborate on (nothing for now)
-- 📫 How to reach me just say thre times carrots :)
+- 📫 How to reach me ?
+- via
+- Facebook: 
+https://www.facebook.com/islam.sobhyeladly?mibextid=ZbWKwL
+Curiouscat For Asking Any Questions: 
+https://curiouscat.live/ISYFM
+  
 
 <!---
 Sisco22-maker/Sisco22-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
