@@ -1,9 +1,8 @@
-- 👋 Hi, I’m IslamSobhY
+- 👋 Hi, I’m Islam SobhY Yousof
 - 👀 I’m interested in programing and reading in history
-- 🌱 I’m currently learning data structures with c++
+- 🌱 I’m currently learning algorithms with c++
 - 💞️ I’m looking to collaborate on (nothing for now)
 - 📫 How to reach me ?
-- via
 - Facebook:https://www.facebook.com/islam.sobhyeladly?mibextid=ZbWKwL
 - Curiouscat For Asking Any Questions: https://curiouscat.live/ISYFM
 
